@@ -21,7 +21,7 @@
 			<section>
 				<h3>商品一覧</h3>
 				<table>
-					<caption><a href="entry.html">検索画面に戻る</a>　カートの中身を見る</caption>
+					<caption><a href="entry.html">検索画面に戻る</a>　<a href="entry.php" target="_blank" title="Click ">カートの中身を見る</a></caption>
 					<tr>
 						<th>書籍名</th>
 						<th>価格</th>
@@ -34,28 +34,28 @@
 						<td>4,650</td>
 						<td>Lynn Beighley</td>
 						<td>978-4873114446</td>
-						<td>カートに入れる</td>
+						<td><a href="dvd.php" target="_blank" title="Click ">カートに入れる</a></td>
 					</tr>
 					<tr>
 						<td>リーダブルコード</td>
 						<td>2,600</td>
 						<td>Dustin Boswell</td>
 						<td>978-4873115658</td>
-						<td>カートに入れる</td>
+						<td><a href="dvd.php" target="_blank" title="Click ">カートに入れる</a></td>
 					</tr>
 					<tr>
 						<td>Head First デザインパターン</td>
 						<td>5,060</td>
 						<td>Eric Freeman</td>
 						<td>978-4873112497</td>
-						<td>カートに入れる</td>
+						<td><a href="dvd.php" target="_blank" title="Click ">カートに入れる</a></td>
 					</tr>
 					<tr>
 						<td>PHPによるデザインパターン入門</td>
 						<td>2,400</td>
 						<td>下岡 秀幸</td>
 						<td>978-4798015163</td>
-						<td>カートに入れる</td>
+						<td><a href="dvd.php" target="_blank" title="Click ">カートに入れる</a></td>
 					</tr>
 				</table>
 			</section>
